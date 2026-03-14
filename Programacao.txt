@@ -1,0 +1,41 @@
+Logica na Programação 
+
+é a forma organizada de pensar e resolver problemas.
+
+-Organizar ideias
+-Tomar decisões
+-Criar soluções passo a passo
+
+SEQUENCIA LOGICA
+
+-seguir uma receita
+-GPS
+-Rotina
+-Montar móvel com manual 
+
+Logica é pensar de forma estruturada para chegar em um resultado 
+
+Aplicação da logica para criar instruções que o computador entenda .
+
+Obs. O computador não Pensa
+
+Como funciona 
+
+Alogica de Programação é baseada em..
+
+-Sequencia (passo a passo)
+-Decisão (Se isso acontecer faça aquilo)
+-Repetição (Faça isso vsarias vezes)
+
+ALGORITIMO             VARIAVEIS             CONDIÇÃO
+
+conjunto de passos     espçao por guardar     Decisão Se  Não
+receita de bolo        decisões.
+
+LACOS DE REPETIÇÃO
+
+Repete ações 
+
+
+Logica é a base para qualquer linguagem de Tecnologia.
+
