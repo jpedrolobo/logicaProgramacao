@@ -1,0 +1,56 @@
+# 🗄️ Banco de Dados
+
+Banco de dados é onde as informações da aplicação são armazenadas, organizadas e recuperadas de forma eficiente.
+
+---
+
+## 🧠 O que ele faz
+
+* Armazena dados
+* Organiza informações em tabelas/coleções
+* Permite consultas (queries)
+* Garante integridade e segurança
+
+---
+
+## 🔧 Tipos comuns
+
+* Relacional (SQL) → MySQL, PostgreSQL
+* Não relacional (NoSQL) → MongoDB, Redis
+
+---
+
+## 🖼️ Estrutura básica
+
+![Estrutura Banco de Dados](https://raw.githubusercontent.com/mermaid-js/mermaid/main/docs/public/syntax/flowchart.svg)
+
+---
+
+## 🖼️ Fluxo de uso
+
+![Fluxo Banco](https://raw.githubusercontent.com/mermaid-js/mermaid/main/docs/public/syntax/sequenceDiagram.svg)
+
+---
+
+## ⚙️ Exemplo simples (SQL)
+
+```sql id="p9xk2a"
+CREATE TABLE usuarios (
+    id INT PRIMARY KEY,
+    nome VARCHAR(100),
+    email VARCHAR(100)
+);
+
+INSERT INTO usuarios (id, nome, email)
+VALUES (1, 'João', 'joao@email.com');
+
+SELECT * FROM usuarios;
+```
+
+---
+
+## 💡 Resumo
+
+Banco de Dados = **Armazenamento + Organização + Consulta de dados**
+
+---
